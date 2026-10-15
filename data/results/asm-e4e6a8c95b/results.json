@@ -1,0 +1,71 @@
+{
+  "assessment_id": "asm-e4e6a8c95b",
+  "image_dimensions": [
+    800,
+    800
+  ],
+  "processed_dimensions": [
+    800,
+    800
+  ],
+  "duration_seconds": 6.44,
+  "total_buildings": 1,
+  "assessed_area_sqm": 160000.0,
+  "damage_breakdown": {
+    "no_damage": {
+      "count": 0,
+      "percentage": 0.0,
+      "color": "#16A34A"
+    },
+    "minor_damage": {
+      "count": 1,
+      "percentage": 100.0,
+      "color": "#CA8A04"
+    },
+    "major_damage": {
+      "count": 0,
+      "percentage": 0.0,
+      "color": "#EA580C"
+    },
+    "destroyed": {
+      "count": 0,
+      "percentage": 0.0,
+      "color": "#DC2626"
+    }
+  },
+  "overlay_url": "/api/assessments/asm-e4e6a8c95b/results/overlay.png",
+  "mask_url": "/api/assessments/asm-e4e6a8c95b/results/mask.png",
+  "buildings": [
+    {
+      "id": "BLD-0001",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.284,
+      "area_px": 640000,
+      "bbox": [
+        0,
+        0,
+        800,
+        800
+      ],
+      "centroid": [
+        399.5,
+        399.5
+      ],
+      "probabilities": {
+        "No Damage": 0.229,
+        "Minor Damage": 0.284,
+        "Major Damage": 0.257,
+        "Destroyed": 0.23
+      },
+      "pre_snippet": "/api/assessments/asm-e4e6a8c95b/snippets/b_1_pre.png",
+      "post_snippet": "/api/assessments/asm-e4e6a8c95b/snippets/b_1_post.png"
+    }
+  ],
+  "model_info": {
+    "name": "xView2 First-Place Solution (Siam-ResNet34 U-Net)",
+    "device": "CPU",
+    "weights_source": "xView2 Siamese ResNet34 U-Net (PyTorch CPU Engine)"
+  }
+}

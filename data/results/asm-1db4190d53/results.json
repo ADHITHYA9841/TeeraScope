@@ -1,0 +1,5089 @@
+{
+  "assessment_id": "asm-1db4190d53",
+  "image_dimensions": [
+    1024,
+    1024
+  ],
+  "processed_dimensions": [
+    1024,
+    1024
+  ],
+  "duration_seconds": 18.84,
+  "total_buildings": 194,
+  "assessed_area_sqm": 16121.0,
+  "damage_breakdown": {
+    "no_damage": {
+      "count": 61,
+      "percentage": 31.4,
+      "color": "#16A34A"
+    },
+    "minor_damage": {
+      "count": 104,
+      "percentage": 53.6,
+      "color": "#CA8A04"
+    },
+    "major_damage": {
+      "count": 25,
+      "percentage": 12.9,
+      "color": "#EA580C"
+    },
+    "destroyed": {
+      "count": 4,
+      "percentage": 2.1,
+      "color": "#DC2626"
+    }
+  },
+  "overlay_url": "/api/assessments/asm-1db4190d53/results/overlay.png",
+  "mask_url": "/api/assessments/asm-1db4190d53/results/mask.png",
+  "buildings": [
+    {
+      "id": "BLD-0001",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 347,
+      "bbox": [
+        833,
+        13,
+        30,
+        20
+      ],
+      "centroid": [
+        848.0,
+        22.6
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_1_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_1_post.png"
+    },
+    {
+      "id": "BLD-0002",
+      "damage_class": "Major Damage",
+      "damage_severity": 2,
+      "color": "#EA580C",
+      "confidence": 0.793,
+      "area_px": 306,
+      "bbox": [
+        82,
+        17,
+        20,
+        19
+      ],
+      "centroid": [
+        91.5,
+        25.3
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.793,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_2_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_2_post.png"
+    },
+    {
+      "id": "BLD-0003",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 244,
+      "bbox": [
+        206,
+        16,
+        31,
+        19
+      ],
+      "centroid": [
+        220.9,
+        24.5
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_3_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_3_post.png"
+    },
+    {
+      "id": "BLD-0004",
+      "damage_class": "Major Damage",
+      "damage_severity": 2,
+      "color": "#EA580C",
+      "confidence": 0.793,
+      "area_px": 173,
+      "bbox": [
+        64,
+        19,
+        13,
+        23
+      ],
+      "centroid": [
+        70.5,
+        30.1
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.793,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_4_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_4_post.png"
+    },
+    {
+      "id": "BLD-0005",
+      "damage_class": "Major Damage",
+      "damage_severity": 2,
+      "color": "#EA580C",
+      "confidence": 0.794,
+      "area_px": 141,
+      "bbox": [
+        14,
+        25,
+        19,
+        9
+      ],
+      "centroid": [
+        22.6,
+        28.9
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.794,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_5_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_5_post.png"
+    },
+    {
+      "id": "BLD-0006",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 2659,
+      "bbox": [
+        586,
+        50,
+        74,
+        80
+      ],
+      "centroid": [
+        620.4,
+        92.3
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_6_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_6_post.png"
+    },
+    {
+      "id": "BLD-0007",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 126,
+      "bbox": [
+        670,
+        51,
+        16,
+        14
+      ],
+      "centroid": [
+        677.2,
+        57.9
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_7_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_7_post.png"
+    },
+    {
+      "id": "BLD-0008",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 316,
+      "bbox": [
+        387,
+        54,
+        32,
+        17
+      ],
+      "centroid": [
+        403.6,
+        62.2
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_8_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_8_post.png"
+    },
+    {
+      "id": "BLD-0009",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 2177,
+      "bbox": [
+        751,
+        57,
+        58,
+        74
+      ],
+      "centroid": [
+        779.5,
+        95.1
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_9_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_9_post.png"
+    },
+    {
+      "id": "BLD-0010",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 105,
+      "bbox": [
+        864,
+        75,
+        15,
+        18
+      ],
+      "centroid": [
+        871.0,
+        84.6
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_10_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_10_post.png"
+    },
+    {
+      "id": "BLD-0011",
+      "damage_class": "Major Damage",
+      "damage_severity": 2,
+      "color": "#EA580C",
+      "confidence": 0.793,
+      "area_px": 154,
+      "bbox": [
+        22,
+        81,
+        21,
+        11
+      ],
+      "centroid": [
+        32.2,
+        86.0
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.793,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_11_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_11_post.png"
+    },
+    {
+      "id": "BLD-0012",
+      "damage_class": "Major Damage",
+      "damage_severity": 2,
+      "color": "#EA580C",
+      "confidence": 0.793,
+      "area_px": 173,
+      "bbox": [
+        78,
+        82,
+        16,
+        14
+      ],
+      "centroid": [
+        85.8,
+        88.9
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.793,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_12_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_12_post.png"
+    },
+    {
+      "id": "BLD-0013",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 438,
+      "bbox": [
+        466,
+        95,
+        34,
+        28
+      ],
+      "centroid": [
+        482.9,
+        110.1
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_13_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_13_post.png"
+    },
+    {
+      "id": "BLD-0014",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 145,
+      "bbox": [
+        732,
+        103,
+        13,
+        20
+      ],
+      "centroid": [
+        737.9,
+        111.2
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_14_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_14_post.png"
+    },
+    {
+      "id": "BLD-0015",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 197,
+      "bbox": [
+        413,
+        110,
+        19,
+        24
+      ],
+      "centroid": [
+        422.2,
+        121.4
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_15_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_15_post.png"
+    },
+    {
+      "id": "BLD-0016",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 150,
+      "bbox": [
+        821,
+        111,
+        15,
+        20
+      ],
+      "centroid": [
+        827.9,
+        119.5
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_16_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_16_post.png"
+    },
+    {
+      "id": "BLD-0017",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 197,
+      "bbox": [
+        431,
+        125,
+        24,
+        23
+      ],
+      "centroid": [
+        442.8,
+        136.0
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_17_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_17_post.png"
+    },
+    {
+      "id": "BLD-0018",
+      "damage_class": "Destroyed",
+      "damage_severity": 3,
+      "color": "#DC2626",
+      "confidence": 0.782,
+      "area_px": 227,
+      "bbox": [
+        39,
+        131,
+        21,
+        19
+      ],
+      "centroid": [
+        49.7,
+        140.5
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.782
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_18_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_18_post.png"
+    },
+    {
+      "id": "BLD-0019",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 205,
+      "bbox": [
+        879,
+        130,
+        19,
+        24
+      ],
+      "centroid": [
+        888.0,
+        141.3
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_19_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_19_post.png"
+    },
+    {
+      "id": "BLD-0020",
+      "damage_class": "Major Damage",
+      "damage_severity": 2,
+      "color": "#EA580C",
+      "confidence": 0.793,
+      "area_px": 251,
+      "bbox": [
+        288,
+        135,
+        25,
+        25
+      ],
+      "centroid": [
+        302.0,
+        145.2
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.793,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_20_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_20_post.png"
+    },
+    {
+      "id": "BLD-0021",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 2675,
+      "bbox": [
+        645,
+        135,
+        72,
+        73
+      ],
+      "centroid": [
+        679.9,
+        171.4
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_21_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_21_post.png"
+    },
+    {
+      "id": "BLD-0022",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 474,
+      "bbox": [
+        822,
+        134,
+        54,
+        32
+      ],
+      "centroid": [
+        851.3,
+        149.6
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_22_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_22_post.png"
+    },
+    {
+      "id": "BLD-0023",
+      "damage_class": "Major Damage",
+      "damage_severity": 2,
+      "color": "#EA580C",
+      "confidence": 0.793,
+      "area_px": 174,
+      "bbox": [
+        86,
+        137,
+        24,
+        17
+      ],
+      "centroid": [
+        95.5,
+        144.6
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.793,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_23_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_23_post.png"
+    },
+    {
+      "id": "BLD-0024",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 145,
+      "bbox": [
+        374,
+        136,
+        15,
+        24
+      ],
+      "centroid": [
+        380.8,
+        147.3
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_24_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_24_post.png"
+    },
+    {
+      "id": "BLD-0025",
+      "damage_class": "Major Damage",
+      "damage_severity": 2,
+      "color": "#EA580C",
+      "confidence": 0.793,
+      "area_px": 183,
+      "bbox": [
+        455,
+        160,
+        28,
+        18
+      ],
+      "centroid": [
+        470.0,
+        168.5
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.793,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_25_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_25_post.png"
+    },
+    {
+      "id": "BLD-0026",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 1448,
+      "bbox": [
+        707,
+        164,
+        112,
+        99
+      ],
+      "centroid": [
+        762.0,
+        210.3
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_26_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_26_post.png"
+    },
+    {
+      "id": "BLD-0027",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 105,
+      "bbox": [
+        579,
+        180,
+        18,
+        12
+      ],
+      "centroid": [
+        587.4,
+        186.3
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_27_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_27_post.png"
+    },
+    {
+      "id": "BLD-0028",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 228,
+      "bbox": [
+        801,
+        189,
+        20,
+        29
+      ],
+      "centroid": [
+        810.7,
+        204.3
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_28_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_28_post.png"
+    },
+    {
+      "id": "BLD-0029",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 1157,
+      "bbox": [
+        570,
+        195,
+        49,
+        34
+      ],
+      "centroid": [
+        594.5,
+        211.4
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_29_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_29_post.png"
+    },
+    {
+      "id": "BLD-0030",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 163,
+      "bbox": [
+        622,
+        203,
+        14,
+        28
+      ],
+      "centroid": [
+        627.0,
+        216.7
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_30_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_30_post.png"
+    },
+    {
+      "id": "BLD-0031",
+      "damage_class": "Major Damage",
+      "damage_severity": 2,
+      "color": "#EA580C",
+      "confidence": 0.793,
+      "area_px": 442,
+      "bbox": [
+        138,
+        210,
+        23,
+        35
+      ],
+      "centroid": [
+        148.3,
+        229.0
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.793,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_31_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_31_post.png"
+    },
+    {
+      "id": "BLD-0032",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 236,
+      "bbox": [
+        866,
+        210,
+        20,
+        21
+      ],
+      "centroid": [
+        875.9,
+        219.9
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_32_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_32_post.png"
+    },
+    {
+      "id": "BLD-0033",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 390,
+      "bbox": [
+        560,
+        216,
+        56,
+        34
+      ],
+      "centroid": [
+        588.0,
+        231.3
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_33_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_33_post.png"
+    },
+    {
+      "id": "BLD-0034",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 221,
+      "bbox": [
+        752,
+        230,
+        24,
+        19
+      ],
+      "centroid": [
+        763.9,
+        238.6
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_34_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_34_post.png"
+    },
+    {
+      "id": "BLD-0035",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 1722,
+      "bbox": [
+        601,
+        238,
+        80,
+        70
+      ],
+      "centroid": [
+        641.5,
+        273.0
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_35_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_35_post.png"
+    },
+    {
+      "id": "BLD-0036",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 233,
+      "bbox": [
+        439,
+        242,
+        30,
+        14
+      ],
+      "centroid": [
+        452.6,
+        248.4
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_36_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_36_post.png"
+    },
+    {
+      "id": "BLD-0037",
+      "damage_class": "Major Damage",
+      "damage_severity": 2,
+      "color": "#EA580C",
+      "confidence": 0.793,
+      "area_px": 906,
+      "bbox": [
+        159,
+        244,
+        41,
+        42
+      ],
+      "centroid": [
+        182.5,
+        262.7
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.793,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_37_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_37_post.png"
+    },
+    {
+      "id": "BLD-0038",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 597,
+      "bbox": [
+        13,
+        246,
+        35,
+        33
+      ],
+      "centroid": [
+        25.7,
+        263.3
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_38_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_38_post.png"
+    },
+    {
+      "id": "BLD-0039",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 218,
+      "bbox": [
+        579,
+        247,
+        22,
+        26
+      ],
+      "centroid": [
+        590.8,
+        259.9
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_39_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_39_post.png"
+    },
+    {
+      "id": "BLD-0040",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 156,
+      "bbox": [
+        571,
+        260,
+        16,
+        15
+      ],
+      "centroid": [
+        580.2,
+        266.9
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_40_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_40_post.png"
+    },
+    {
+      "id": "BLD-0041",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 152,
+      "bbox": [
+        787,
+        262,
+        16,
+        18
+      ],
+      "centroid": [
+        794.5,
+        270.6
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_41_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_41_post.png"
+    },
+    {
+      "id": "BLD-0042",
+      "damage_class": "Major Damage",
+      "damage_severity": 2,
+      "color": "#EA580C",
+      "confidence": 0.793,
+      "area_px": 501,
+      "bbox": [
+        200,
+        279,
+        42,
+        35
+      ],
+      "centroid": [
+        222.0,
+        298.7
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.793,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_42_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_42_post.png"
+    },
+    {
+      "id": "BLD-0043",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 469,
+      "bbox": [
+        438,
+        285,
+        28,
+        31
+      ],
+      "centroid": [
+        450.5,
+        298.9
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_43_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_43_post.png"
+    },
+    {
+      "id": "BLD-0044",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 232,
+      "bbox": [
+        56,
+        286,
+        22,
+        20
+      ],
+      "centroid": [
+        66.8,
+        296.2
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_44_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_44_post.png"
+    },
+    {
+      "id": "BLD-0045",
+      "damage_class": "Major Damage",
+      "damage_severity": 2,
+      "color": "#EA580C",
+      "confidence": 0.793,
+      "area_px": 176,
+      "bbox": [
+        153,
+        289,
+        21,
+        17
+      ],
+      "centroid": [
+        163.7,
+        297.3
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.793,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_45_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_45_post.png"
+    },
+    {
+      "id": "BLD-0046",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 212,
+      "bbox": [
+        654,
+        293,
+        28,
+        25
+      ],
+      "centroid": [
+        666.8,
+        305.0
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_46_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_46_post.png"
+    },
+    {
+      "id": "BLD-0047",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 161,
+      "bbox": [
+        460,
+        294,
+        24,
+        14
+      ],
+      "centroid": [
+        471.2,
+        302.0
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_47_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_47_post.png"
+    },
+    {
+      "id": "BLD-0048",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 371,
+      "bbox": [
+        582,
+        305,
+        18,
+        36
+      ],
+      "centroid": [
+        591.3,
+        320.3
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_48_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_48_post.png"
+    },
+    {
+      "id": "BLD-0049",
+      "damage_class": "Major Damage",
+      "damage_severity": 2,
+      "color": "#EA580C",
+      "confidence": 0.793,
+      "area_px": 765,
+      "bbox": [
+        257,
+        307,
+        31,
+        37
+      ],
+      "centroid": [
+        271.0,
+        326.1
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.793,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_49_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_49_post.png"
+    },
+    {
+      "id": "BLD-0050",
+      "damage_class": "Destroyed",
+      "damage_severity": 3,
+      "color": "#DC2626",
+      "confidence": 0.782,
+      "area_px": 234,
+      "bbox": [
+        184,
+        310,
+        26,
+        21
+      ],
+      "centroid": [
+        195.3,
+        319.3
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.782
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_50_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_50_post.png"
+    },
+    {
+      "id": "BLD-0051",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 212,
+      "bbox": [
+        96,
+        315,
+        16,
+        26
+      ],
+      "centroid": [
+        103.0,
+        329.4
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_51_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_51_post.png"
+    },
+    {
+      "id": "BLD-0052",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 177,
+      "bbox": [
+        76,
+        317,
+        18,
+        19
+      ],
+      "centroid": [
+        85.8,
+        326.9
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_52_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_52_post.png"
+    },
+    {
+      "id": "BLD-0053",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 109,
+      "bbox": [
+        635,
+        321,
+        13,
+        14
+      ],
+      "centroid": [
+        641.1,
+        327.9
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_53_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_53_post.png"
+    },
+    {
+      "id": "BLD-0054",
+      "damage_class": "Major Damage",
+      "damage_severity": 2,
+      "color": "#EA580C",
+      "confidence": 0.793,
+      "area_px": 707,
+      "bbox": [
+        356,
+        330,
+        38,
+        38
+      ],
+      "centroid": [
+        376.5,
+        348.6
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.793,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_54_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_54_post.png"
+    },
+    {
+      "id": "BLD-0055",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 167,
+      "bbox": [
+        668,
+        332,
+        15,
+        19
+      ],
+      "centroid": [
+        674.4,
+        341.3
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_55_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_55_post.png"
+    },
+    {
+      "id": "BLD-0056",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 131,
+      "bbox": [
+        305,
+        340,
+        14,
+        17
+      ],
+      "centroid": [
+        311.6,
+        347.7
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_56_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_56_post.png"
+    },
+    {
+      "id": "BLD-0057",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 149,
+      "bbox": [
+        596,
+        344,
+        19,
+        16
+      ],
+      "centroid": [
+        604.8,
+        350.9
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_57_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_57_post.png"
+    },
+    {
+      "id": "BLD-0058",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 176,
+      "bbox": [
+        116,
+        353,
+        17,
+        18
+      ],
+      "centroid": [
+        123.1,
+        362.1
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_58_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_58_post.png"
+    },
+    {
+      "id": "BLD-0059",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 172,
+      "bbox": [
+        569,
+        354,
+        24,
+        14
+      ],
+      "centroid": [
+        580.6,
+        360.8
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_59_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_59_post.png"
+    },
+    {
+      "id": "BLD-0060",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 134,
+      "bbox": [
+        998,
+        354,
+        14,
+        22
+      ],
+      "centroid": [
+        1004.4,
+        365.6
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_60_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_60_post.png"
+    },
+    {
+      "id": "BLD-0061",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 164,
+      "bbox": [
+        473,
+        364,
+        12,
+        23
+      ],
+      "centroid": [
+        478.5,
+        375.9
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_61_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_61_post.png"
+    },
+    {
+      "id": "BLD-0062",
+      "damage_class": "Major Damage",
+      "damage_severity": 2,
+      "color": "#EA580C",
+      "confidence": 0.793,
+      "area_px": 830,
+      "bbox": [
+        155,
+        370,
+        33,
+        45
+      ],
+      "centroid": [
+        171.5,
+        391.8
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.793,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_62_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_62_post.png"
+    },
+    {
+      "id": "BLD-0063",
+      "damage_class": "Major Damage",
+      "damage_severity": 2,
+      "color": "#EA580C",
+      "confidence": 0.793,
+      "area_px": 122,
+      "bbox": [
+        587,
+        376,
+        15,
+        21
+      ],
+      "centroid": [
+        593.0,
+        386.4
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.793,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_63_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_63_post.png"
+    },
+    {
+      "id": "BLD-0064",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 901,
+      "bbox": [
+        950,
+        385,
+        47,
+        48
+      ],
+      "centroid": [
+        973.4,
+        403.5
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_64_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_64_post.png"
+    },
+    {
+      "id": "BLD-0065",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 692,
+      "bbox": [
+        206,
+        398,
+        34,
+        38
+      ],
+      "centroid": [
+        223.1,
+        418.6
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_65_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_65_post.png"
+    },
+    {
+      "id": "BLD-0066",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 208,
+      "bbox": [
+        300,
+        403,
+        18,
+        19
+      ],
+      "centroid": [
+        309.8,
+        412.9
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_66_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_66_post.png"
+    },
+    {
+      "id": "BLD-0067",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 254,
+      "bbox": [
+        861,
+        410,
+        22,
+        23
+      ],
+      "centroid": [
+        871.5,
+        420.3
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_67_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_67_post.png"
+    },
+    {
+      "id": "BLD-0068",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 391,
+      "bbox": [
+        251,
+        430,
+        34,
+        23
+      ],
+      "centroid": [
+        269.9,
+        441.9
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_68_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_68_post.png"
+    },
+    {
+      "id": "BLD-0069",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 488,
+      "bbox": [
+        301,
+        439,
+        30,
+        33
+      ],
+      "centroid": [
+        318.1,
+        456.6
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_69_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_69_post.png"
+    },
+    {
+      "id": "BLD-0070",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 497,
+      "bbox": [
+        893,
+        440,
+        35,
+        35
+      ],
+      "centroid": [
+        908.7,
+        455.6
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_70_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_70_post.png"
+    },
+    {
+      "id": "BLD-0071",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 158,
+      "bbox": [
+        26,
+        443,
+        15,
+        21
+      ],
+      "centroid": [
+        34.5,
+        452.9
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_71_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_71_post.png"
+    },
+    {
+      "id": "BLD-0072",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 449,
+      "bbox": [
+        497,
+        442,
+        26,
+        25
+      ],
+      "centroid": [
+        510.6,
+        452.8
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_72_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_72_post.png"
+    },
+    {
+      "id": "BLD-0073",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 563,
+      "bbox": [
+        350,
+        447,
+        33,
+        29
+      ],
+      "centroid": [
+        367.3,
+        461.2
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_73_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_73_post.png"
+    },
+    {
+      "id": "BLD-0074",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 142,
+      "bbox": [
+        896,
+        469,
+        14,
+        19
+      ],
+      "centroid": [
+        902.3,
+        478.0
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_74_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_74_post.png"
+    },
+    {
+      "id": "BLD-0075",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 137,
+      "bbox": [
+        862,
+        489,
+        14,
+        20
+      ],
+      "centroid": [
+        867.8,
+        498.6
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_75_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_75_post.png"
+    },
+    {
+      "id": "BLD-0076",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 314,
+      "bbox": [
+        57,
+        499,
+        21,
+        26
+      ],
+      "centroid": [
+        66.7,
+        510.5
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_76_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_76_post.png"
+    },
+    {
+      "id": "BLD-0077",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 113,
+      "bbox": [
+        821,
+        499,
+        16,
+        16
+      ],
+      "centroid": [
+        828.4,
+        507.7
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_77_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_77_post.png"
+    },
+    {
+      "id": "BLD-0078",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 143,
+      "bbox": [
+        839,
+        502,
+        12,
+        20
+      ],
+      "centroid": [
+        844.5,
+        511.5
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_78_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_78_post.png"
+    },
+    {
+      "id": "BLD-0079",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 181,
+      "bbox": [
+        784,
+        508,
+        23,
+        15
+      ],
+      "centroid": [
+        793.7,
+        516.1
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_79_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_79_post.png"
+    },
+    {
+      "id": "BLD-0080",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 769,
+      "bbox": [
+        473,
+        512,
+        38,
+        43
+      ],
+      "centroid": [
+        492.6,
+        534.7
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_80_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_80_post.png"
+    },
+    {
+      "id": "BLD-0081",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 120,
+      "bbox": [
+        442,
+        521,
+        19,
+        10
+      ],
+      "centroid": [
+        451.0,
+        525.5
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_81_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_81_post.png"
+    },
+    {
+      "id": "BLD-0082",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 246,
+      "bbox": [
+        751,
+        521,
+        21,
+        26
+      ],
+      "centroid": [
+        760.9,
+        531.6
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_82_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_82_post.png"
+    },
+    {
+      "id": "BLD-0083",
+      "damage_class": "Major Damage",
+      "damage_severity": 2,
+      "color": "#EA580C",
+      "confidence": 0.793,
+      "area_px": 185,
+      "bbox": [
+        13,
+        523,
+        24,
+        16
+      ],
+      "centroid": [
+        24.8,
+        531.3
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.793,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_83_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_83_post.png"
+    },
+    {
+      "id": "BLD-0084",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 142,
+      "bbox": [
+        362,
+        524,
+        18,
+        19
+      ],
+      "centroid": [
+        370.3,
+        533.9
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_84_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_84_post.png"
+    },
+    {
+      "id": "BLD-0085",
+      "damage_class": "Major Damage",
+      "damage_severity": 2,
+      "color": "#EA580C",
+      "confidence": 0.793,
+      "area_px": 518,
+      "bbox": [
+        155,
+        529,
+        22,
+        41
+      ],
+      "centroid": [
+        164.7,
+        549.6
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.793,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_85_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_85_post.png"
+    },
+    {
+      "id": "BLD-0086",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 662,
+      "bbox": [
+        696,
+        528,
+        35,
+        40
+      ],
+      "centroid": [
+        714.8,
+        546.9
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_86_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_86_post.png"
+    },
+    {
+      "id": "BLD-0087",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 202,
+      "bbox": [
+        97,
+        533,
+        24,
+        19
+      ],
+      "centroid": [
+        111.1,
+        542.7
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_87_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_87_post.png"
+    },
+    {
+      "id": "BLD-0088",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 126,
+      "bbox": [
+        376,
+        539,
+        15,
+        13
+      ],
+      "centroid": [
+        383.2,
+        545.3
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_88_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_88_post.png"
+    },
+    {
+      "id": "BLD-0089",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 136,
+      "bbox": [
+        847,
+        541,
+        14,
+        19
+      ],
+      "centroid": [
+        853.1,
+        550.2
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_89_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_89_post.png"
+    },
+    {
+      "id": "BLD-0090",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 214,
+      "bbox": [
+        964,
+        545,
+        23,
+        19
+      ],
+      "centroid": [
+        975.3,
+        555.1
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_90_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_90_post.png"
+    },
+    {
+      "id": "BLD-0091",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 1007,
+      "bbox": [
+        300,
+        547,
+        43,
+        43
+      ],
+      "centroid": [
+        322.8,
+        567.9
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_91_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_91_post.png"
+    },
+    {
+      "id": "BLD-0092",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 231,
+      "bbox": [
+        910,
+        556,
+        22,
+        23
+      ],
+      "centroid": [
+        919.6,
+        566.8
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_92_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_92_post.png"
+    },
+    {
+      "id": "BLD-0093",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 143,
+      "bbox": [
+        369,
+        558,
+        17,
+        18
+      ],
+      "centroid": [
+        377.8,
+        566.0
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_93_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_93_post.png"
+    },
+    {
+      "id": "BLD-0094",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 137,
+      "bbox": [
+        809,
+        561,
+        17,
+        18
+      ],
+      "centroid": [
+        817.0,
+        569.7
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_94_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_94_post.png"
+    },
+    {
+      "id": "BLD-0095",
+      "damage_class": "Major Damage",
+      "damage_severity": 2,
+      "color": "#EA580C",
+      "confidence": 0.794,
+      "area_px": 167,
+      "bbox": [
+        125,
+        566,
+        14,
+        23
+      ],
+      "centroid": [
+        131.7,
+        577.1
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.794,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_95_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_95_post.png"
+    },
+    {
+      "id": "BLD-0096",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 331,
+      "bbox": [
+        674,
+        567,
+        28,
+        28
+      ],
+      "centroid": [
+        687.7,
+        582.2
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_96_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_96_post.png"
+    },
+    {
+      "id": "BLD-0097",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 306,
+      "bbox": [
+        873,
+        568,
+        25,
+        31
+      ],
+      "centroid": [
+        886.2,
+        585.5
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_97_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_97_post.png"
+    },
+    {
+      "id": "BLD-0098",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 385,
+      "bbox": [
+        471,
+        570,
+        26,
+        26
+      ],
+      "centroid": [
+        482.9,
+        582.4
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_98_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_98_post.png"
+    },
+    {
+      "id": "BLD-0099",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 396,
+      "bbox": [
+        256,
+        573,
+        27,
+        22
+      ],
+      "centroid": [
+        267.3,
+        582.0
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_99_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_99_post.png"
+    },
+    {
+      "id": "BLD-0100",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 148,
+      "bbox": [
+        713,
+        572,
+        15,
+        20
+      ],
+      "centroid": [
+        720.2,
+        581.1
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_100_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_100_post.png"
+    },
+    {
+      "id": "BLD-0101",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 514,
+      "bbox": [
+        183,
+        579,
+        43,
+        35
+      ],
+      "centroid": [
+        208.4,
+        601.1
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_101_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_101_post.png"
+    },
+    {
+      "id": "BLD-0102",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 136,
+      "bbox": [
+        775,
+        581,
+        13,
+        19
+      ],
+      "centroid": [
+        781.1,
+        590.2
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_102_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_102_post.png"
+    },
+    {
+      "id": "BLD-0103",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 868,
+      "bbox": [
+        639,
+        585,
+        30,
+        57
+      ],
+      "centroid": [
+        652.4,
+        611.4
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_103_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_103_post.png"
+    },
+    {
+      "id": "BLD-0104",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 120,
+      "bbox": [
+        391,
+        591,
+        16,
+        15
+      ],
+      "centroid": [
+        398.4,
+        597.9
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_104_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_104_post.png"
+    },
+    {
+      "id": "BLD-0105",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 245,
+      "bbox": [
+        671,
+        597,
+        25,
+        19
+      ],
+      "centroid": [
+        684.1,
+        605.3
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_105_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_105_post.png"
+    },
+    {
+      "id": "BLD-0106",
+      "damage_class": "Major Damage",
+      "damage_severity": 2,
+      "color": "#EA580C",
+      "confidence": 0.794,
+      "area_px": 132,
+      "bbox": [
+        96,
+        598,
+        11,
+        18
+      ],
+      "centroid": [
+        101.3,
+        606.7
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.794,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_106_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_106_post.png"
+    },
+    {
+      "id": "BLD-0107",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 124,
+      "bbox": [
+        844,
+        599,
+        16,
+        11
+      ],
+      "centroid": [
+        851.9,
+        604.0
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_107_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_107_post.png"
+    },
+    {
+      "id": "BLD-0108",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 112,
+      "bbox": [
+        620,
+        604,
+        19,
+        21
+      ],
+      "centroid": [
+        629.0,
+        614.1
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_108_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_108_post.png"
+    },
+    {
+      "id": "BLD-0109",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 107,
+      "bbox": [
+        729,
+        607,
+        12,
+        16
+      ],
+      "centroid": [
+        734.7,
+        614.8
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_109_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_109_post.png"
+    },
+    {
+      "id": "BLD-0110",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 202,
+      "bbox": [
+        442,
+        609,
+        16,
+        25
+      ],
+      "centroid": [
+        448.7,
+        619.8
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_110_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_110_post.png"
+    },
+    {
+      "id": "BLD-0111",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 234,
+      "bbox": [
+        809,
+        613,
+        16,
+        25
+      ],
+      "centroid": [
+        816.6,
+        626.6
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_111_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_111_post.png"
+    },
+    {
+      "id": "BLD-0112",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 117,
+      "bbox": [
+        359,
+        615,
+        11,
+        18
+      ],
+      "centroid": [
+        363.8,
+        624.0
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_112_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_112_post.png"
+    },
+    {
+      "id": "BLD-0113",
+      "damage_class": "Destroyed",
+      "damage_severity": 3,
+      "color": "#DC2626",
+      "confidence": 0.782,
+      "area_px": 161,
+      "bbox": [
+        138,
+        618,
+        14,
+        20
+      ],
+      "centroid": [
+        144.5,
+        627.6
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.782
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_113_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_113_post.png"
+    },
+    {
+      "id": "BLD-0114",
+      "damage_class": "Major Damage",
+      "damage_severity": 2,
+      "color": "#EA580C",
+      "confidence": 0.794,
+      "area_px": 157,
+      "bbox": [
+        180,
+        635,
+        12,
+        19
+      ],
+      "centroid": [
+        184.7,
+        643.3
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.794,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_114_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_114_post.png"
+    },
+    {
+      "id": "BLD-0115",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 212,
+      "bbox": [
+        761,
+        635,
+        18,
+        21
+      ],
+      "centroid": [
+        769.3,
+        644.1
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_115_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_115_post.png"
+    },
+    {
+      "id": "BLD-0116",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 121,
+      "bbox": [
+        320,
+        637,
+        12,
+        14
+      ],
+      "centroid": [
+        326.6,
+        643.5
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_116_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_116_post.png"
+    },
+    {
+      "id": "BLD-0117",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 154,
+      "bbox": [
+        277,
+        643,
+        10,
+        20
+      ],
+      "centroid": [
+        281.1,
+        652.9
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_117_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_117_post.png"
+    },
+    {
+      "id": "BLD-0118",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 423,
+      "bbox": [
+        391,
+        645,
+        25,
+        33
+      ],
+      "centroid": [
+        404.1,
+        658.5
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_118_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_118_post.png"
+    },
+    {
+      "id": "BLD-0119",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 168,
+      "bbox": [
+        594,
+        656,
+        17,
+        21
+      ],
+      "centroid": [
+        602.6,
+        665.9
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_119_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_119_post.png"
+    },
+    {
+      "id": "BLD-0120",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 328,
+      "bbox": [
+        725,
+        663,
+        22,
+        27
+      ],
+      "centroid": [
+        736.2,
+        675.8
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_120_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_120_post.png"
+    },
+    {
+      "id": "BLD-0121",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 137,
+      "bbox": [
+        574,
+        664,
+        24,
+        17
+      ],
+      "centroid": [
+        587.4,
+        671.1
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_121_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_121_post.png"
+    },
+    {
+      "id": "BLD-0122",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 658,
+      "bbox": [
+        233,
+        669,
+        30,
+        39
+      ],
+      "centroid": [
+        249.7,
+        688.6
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_122_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_122_post.png"
+    },
+    {
+      "id": "BLD-0123",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 487,
+      "bbox": [
+        345,
+        669,
+        27,
+        24
+      ],
+      "centroid": [
+        358.1,
+        680.3
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_123_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_123_post.png"
+    },
+    {
+      "id": "BLD-0124",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 319,
+      "bbox": [
+        175,
+        673,
+        29,
+        23
+      ],
+      "centroid": [
+        191.3,
+        685.8
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_124_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_124_post.png"
+    },
+    {
+      "id": "BLD-0125",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 482,
+      "bbox": [
+        292,
+        682,
+        26,
+        26
+      ],
+      "centroid": [
+        303.9,
+        693.0
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_125_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_125_post.png"
+    },
+    {
+      "id": "BLD-0126",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 144,
+      "bbox": [
+        598,
+        683,
+        19,
+        15
+      ],
+      "centroid": [
+        606.6,
+        690.2
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_126_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_126_post.png"
+    },
+    {
+      "id": "BLD-0127",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 273,
+      "bbox": [
+        691,
+        693,
+        21,
+        19
+      ],
+      "centroid": [
+        700.2,
+        701.6
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_127_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_127_post.png"
+    },
+    {
+      "id": "BLD-0128",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 180,
+      "bbox": [
+        179,
+        697,
+        18,
+        16
+      ],
+      "centroid": [
+        188.6,
+        704.0
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_128_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_128_post.png"
+    },
+    {
+      "id": "BLD-0129",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 229,
+      "bbox": [
+        563,
+        697,
+        22,
+        29
+      ],
+      "centroid": [
+        571.0,
+        709.1
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_129_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_129_post.png"
+    },
+    {
+      "id": "BLD-0130",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 136,
+      "bbox": [
+        633,
+        702,
+        17,
+        16
+      ],
+      "centroid": [
+        640.0,
+        710.4
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_130_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_130_post.png"
+    },
+    {
+      "id": "BLD-0131",
+      "damage_class": "Major Damage",
+      "damage_severity": 2,
+      "color": "#EA580C",
+      "confidence": 0.793,
+      "area_px": 953,
+      "bbox": [
+        39,
+        705,
+        44,
+        46
+      ],
+      "centroid": [
+        63.8,
+        727.1
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.793,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_131_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_131_post.png"
+    },
+    {
+      "id": "BLD-0132",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 423,
+      "bbox": [
+        668,
+        726,
+        23,
+        26
+      ],
+      "centroid": [
+        679.0,
+        740.0
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_132_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_132_post.png"
+    },
+    {
+      "id": "BLD-0133",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 131,
+      "bbox": [
+        608,
+        736,
+        17,
+        15
+      ],
+      "centroid": [
+        615.9,
+        743.5
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_133_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_133_post.png"
+    },
+    {
+      "id": "BLD-0134",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 410,
+      "bbox": [
+        952,
+        744,
+        21,
+        24
+      ],
+      "centroid": [
+        961.4,
+        755.6
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_134_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_134_post.png"
+    },
+    {
+      "id": "BLD-0135",
+      "damage_class": "Major Damage",
+      "damage_severity": 2,
+      "color": "#EA580C",
+      "confidence": 0.794,
+      "area_px": 162,
+      "bbox": [
+        42,
+        752,
+        17,
+        21
+      ],
+      "centroid": [
+        50.2,
+        761.8
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.794,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_135_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_135_post.png"
+    },
+    {
+      "id": "BLD-0136",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 283,
+      "bbox": [
+        910,
+        755,
+        22,
+        22
+      ],
+      "centroid": [
+        921.1,
+        766.2
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_136_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_136_post.png"
+    },
+    {
+      "id": "BLD-0137",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 762,
+      "bbox": [
+        89,
+        757,
+        37,
+        37
+      ],
+      "centroid": [
+        106.9,
+        778.1
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_137_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_137_post.png"
+    },
+    {
+      "id": "BLD-0138",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 267,
+      "bbox": [
+        642,
+        757,
+        18,
+        29
+      ],
+      "centroid": [
+        650.4,
+        771.1
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_138_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_138_post.png"
+    },
+    {
+      "id": "BLD-0139",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 442,
+      "bbox": [
+        552,
+        760,
+        40,
+        36
+      ],
+      "centroid": [
+        573.0,
+        776.7
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_139_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_139_post.png"
+    },
+    {
+      "id": "BLD-0140",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 341,
+      "bbox": [
+        876,
+        763,
+        19,
+        25
+      ],
+      "centroid": [
+        884.9,
+        774.3
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_140_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_140_post.png"
+    },
+    {
+      "id": "BLD-0141",
+      "damage_class": "Major Damage",
+      "damage_severity": 2,
+      "color": "#EA580C",
+      "confidence": 0.793,
+      "area_px": 178,
+      "bbox": [
+        1004,
+        765,
+        9,
+        23
+      ],
+      "centroid": [
+        1007.8,
+        776.4
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.793,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_141_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_141_post.png"
+    },
+    {
+      "id": "BLD-0142",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 168,
+      "bbox": [
+        950,
+        772,
+        10,
+        23
+      ],
+      "centroid": [
+        954.1,
+        783.4
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_142_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_142_post.png"
+    },
+    {
+      "id": "BLD-0143",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 339,
+      "bbox": [
+        836,
+        777,
+        19,
+        23
+      ],
+      "centroid": [
+        845.6,
+        787.5
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_143_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_143_post.png"
+    },
+    {
+      "id": "BLD-0144",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 220,
+      "bbox": [
+        911,
+        779,
+        13,
+        25
+      ],
+      "centroid": [
+        917.1,
+        790.2
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_144_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_144_post.png"
+    },
+    {
+      "id": "BLD-0145",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 231,
+      "bbox": [
+        505,
+        785,
+        19,
+        23
+      ],
+      "centroid": [
+        514.4,
+        796.1
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_145_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_145_post.png"
+    },
+    {
+      "id": "BLD-0146",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 290,
+      "bbox": [
+        798,
+        797,
+        22,
+        25
+      ],
+      "centroid": [
+        809.3,
+        808.8
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_146_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_146_post.png"
+    },
+    {
+      "id": "BLD-0147",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 198,
+      "bbox": [
+        543,
+        805,
+        19,
+        20
+      ],
+      "centroid": [
+        552.4,
+        815.1
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_147_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_147_post.png"
+    },
+    {
+      "id": "BLD-0148",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 303,
+      "bbox": [
+        761,
+        810,
+        22,
+        27
+      ],
+      "centroid": [
+        772.3,
+        822.8
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_148_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_148_post.png"
+    },
+    {
+      "id": "BLD-0149",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 119,
+      "bbox": [
+        952,
+        814,
+        10,
+        15
+      ],
+      "centroid": [
+        956.7,
+        821.0
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_149_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_149_post.png"
+    },
+    {
+      "id": "BLD-0150",
+      "damage_class": "Destroyed",
+      "damage_severity": 3,
+      "color": "#DC2626",
+      "confidence": 0.782,
+      "area_px": 125,
+      "bbox": [
+        45,
+        816,
+        12,
+        19
+      ],
+      "centroid": [
+        51.0,
+        824.7
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.782
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_150_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_150_post.png"
+    },
+    {
+      "id": "BLD-0151",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 127,
+      "bbox": [
+        416,
+        818,
+        20,
+        14
+      ],
+      "centroid": [
+        427.0,
+        825.0
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_151_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_151_post.png"
+    },
+    {
+      "id": "BLD-0152",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 177,
+      "bbox": [
+        800,
+        820,
+        14,
+        23
+      ],
+      "centroid": [
+        806.3,
+        831.1
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_152_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_152_post.png"
+    },
+    {
+      "id": "BLD-0153",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 906,
+      "bbox": [
+        63,
+        822,
+        42,
+        37
+      ],
+      "centroid": [
+        83.0,
+        841.0
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_153_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_153_post.png"
+    },
+    {
+      "id": "BLD-0154",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 335,
+      "bbox": [
+        582,
+        829,
+        21,
+        29
+      ],
+      "centroid": [
+        592.7,
+        843.2
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_154_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_154_post.png"
+    },
+    {
+      "id": "BLD-0155",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 234,
+      "bbox": [
+        464,
+        837,
+        38,
+        24
+      ],
+      "centroid": [
+        480.3,
+        849.7
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_155_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_155_post.png"
+    },
+    {
+      "id": "BLD-0156",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 347,
+      "bbox": [
+        381,
+        838,
+        31,
+        21
+      ],
+      "centroid": [
+        395.6,
+        848.2
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_156_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_156_post.png"
+    },
+    {
+      "id": "BLD-0157",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 469,
+      "bbox": [
+        689,
+        838,
+        23,
+        34
+      ],
+      "centroid": [
+        700.5,
+        854.4
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_157_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_157_post.png"
+    },
+    {
+      "id": "BLD-0158",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 140,
+      "bbox": [
+        731,
+        838,
+        16,
+        17
+      ],
+      "centroid": [
+        736.9,
+        845.2
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_158_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_158_post.png"
+    },
+    {
+      "id": "BLD-0159",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 157,
+      "bbox": [
+        763,
+        840,
+        15,
+        21
+      ],
+      "centroid": [
+        770.1,
+        849.8
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_159_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_159_post.png"
+    },
+    {
+      "id": "BLD-0160",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 201,
+      "bbox": [
+        804,
+        840,
+        44,
+        22
+      ],
+      "centroid": [
+        823.3,
+        849.6
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_160_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_160_post.png"
+    },
+    {
+      "id": "BLD-0161",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 207,
+      "bbox": [
+        420,
+        842,
+        16,
+        22
+      ],
+      "centroid": [
+        427.5,
+        853.0
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_161_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_161_post.png"
+    },
+    {
+      "id": "BLD-0162",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 110,
+      "bbox": [
+        492,
+        848,
+        13,
+        16
+      ],
+      "centroid": [
+        498.0,
+        855.9
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_162_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_162_post.png"
+    },
+    {
+      "id": "BLD-0163",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 158,
+      "bbox": [
+        828,
+        851,
+        14,
+        18
+      ],
+      "centroid": [
+        835.6,
+        858.6
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_163_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_163_post.png"
+    },
+    {
+      "id": "BLD-0164",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 261,
+      "bbox": [
+        353,
+        853,
+        23,
+        22
+      ],
+      "centroid": [
+        364.2,
+        863.6
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_164_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_164_post.png"
+    },
+    {
+      "id": "BLD-0165",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 227,
+      "bbox": [
+        546,
+        855,
+        20,
+        17
+      ],
+      "centroid": [
+        555.3,
+        862.7
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_165_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_165_post.png"
+    },
+    {
+      "id": "BLD-0166",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 205,
+      "bbox": [
+        386,
+        858,
+        18,
+        24
+      ],
+      "centroid": [
+        394.9,
+        868.4
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_166_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_166_post.png"
+    },
+    {
+      "id": "BLD-0167",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 107,
+      "bbox": [
+        743,
+        858,
+        12,
+        14
+      ],
+      "centroid": [
+        747.6,
+        864.9
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_167_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_167_post.png"
+    },
+    {
+      "id": "BLD-0168",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 181,
+      "bbox": [
+        429,
+        861,
+        33,
+        18
+      ],
+      "centroid": [
+        444.9,
+        870.0
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_168_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_168_post.png"
+    },
+    {
+      "id": "BLD-0169",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 387,
+      "bbox": [
+        925,
+        862,
+        23,
+        24
+      ],
+      "centroid": [
+        936.5,
+        873.4
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_169_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_169_post.png"
+    },
+    {
+      "id": "BLD-0170",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 249,
+      "bbox": [
+        4,
+        866,
+        28,
+        17
+      ],
+      "centroid": [
+        19.2,
+        874.9
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_170_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_170_post.png"
+    },
+    {
+      "id": "BLD-0171",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 158,
+      "bbox": [
+        706,
+        866,
+        12,
+        24
+      ],
+      "centroid": [
+        711.2,
+        877.9
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_171_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_171_post.png"
+    },
+    {
+      "id": "BLD-0172",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 279,
+      "bbox": [
+        319,
+        877,
+        21,
+        22
+      ],
+      "centroid": [
+        330.0,
+        885.5
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_172_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_172_post.png"
+    },
+    {
+      "id": "BLD-0173",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 121,
+      "bbox": [
+        437,
+        878,
+        15,
+        14
+      ],
+      "centroid": [
+        444.8,
+        884.6
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_173_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_173_post.png"
+    },
+    {
+      "id": "BLD-0174",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 137,
+      "bbox": [
+        637,
+        880,
+        19,
+        14
+      ],
+      "centroid": [
+        645.9,
+        886.2
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_174_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_174_post.png"
+    },
+    {
+      "id": "BLD-0175",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 108,
+      "bbox": [
+        404,
+        882,
+        18,
+        11
+      ],
+      "centroid": [
+        411.9,
+        886.4
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_175_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_175_post.png"
+    },
+    {
+      "id": "BLD-0176",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 215,
+      "bbox": [
+        515,
+        888,
+        18,
+        20
+      ],
+      "centroid": [
+        522.5,
+        897.2
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_176_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_176_post.png"
+    },
+    {
+      "id": "BLD-0177",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 423,
+      "bbox": [
+        609,
+        892,
+        36,
+        32
+      ],
+      "centroid": [
+        627.1,
+        908.4
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_177_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_177_post.png"
+    },
+    {
+      "id": "BLD-0178",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 1166,
+      "bbox": [
+        282,
+        895,
+        117,
+        96
+      ],
+      "centroid": [
+        332.4,
+        943.3
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_178_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_178_post.png"
+    },
+    {
+      "id": "BLD-0179",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 154,
+      "bbox": [
+        848,
+        894,
+        15,
+        21
+      ],
+      "centroid": [
+        853.8,
+        906.0
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_179_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_179_post.png"
+    },
+    {
+      "id": "BLD-0180",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 317,
+      "bbox": [
+        467,
+        903,
+        19,
+        23
+      ],
+      "centroid": [
+        475.1,
+        913.1
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_180_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_180_post.png"
+    },
+    {
+      "id": "BLD-0181",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 216,
+      "bbox": [
+        807,
+        903,
+        19,
+        21
+      ],
+      "centroid": [
+        816.0,
+        912.1
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_181_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_181_post.png"
+    },
+    {
+      "id": "BLD-0182",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 230,
+      "bbox": [
+        673,
+        904,
+        22,
+        35
+      ],
+      "centroid": [
+        682.2,
+        922.6
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_182_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_182_post.png"
+    },
+    {
+      "id": "BLD-0183",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 112,
+      "bbox": [
+        686,
+        906,
+        17,
+        10
+      ],
+      "centroid": [
+        694.8,
+        910.1
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_183_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_183_post.png"
+    },
+    {
+      "id": "BLD-0184",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 391,
+      "bbox": [
+        438,
+        922,
+        20,
+        32
+      ],
+      "centroid": [
+        447.8,
+        937.9
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_184_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_184_post.png"
+    },
+    {
+      "id": "BLD-0185",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 263,
+      "bbox": [
+        265,
+        926,
+        23,
+        28
+      ],
+      "centroid": [
+        275.7,
+        937.8
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_185_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_185_post.png"
+    },
+    {
+      "id": "BLD-0186",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 386,
+      "bbox": [
+        406,
+        938,
+        19,
+        36
+      ],
+      "centroid": [
+        415.1,
+        958.3
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_186_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_186_post.png"
+    },
+    {
+      "id": "BLD-0187",
+      "damage_class": "Major Damage",
+      "damage_severity": 2,
+      "color": "#EA580C",
+      "confidence": 0.793,
+      "area_px": 136,
+      "bbox": [
+        282,
+        944,
+        15,
+        18
+      ],
+      "centroid": [
+        289.1,
+        952.6
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.793,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_187_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_187_post.png"
+    },
+    {
+      "id": "BLD-0188",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 278,
+      "bbox": [
+        693,
+        952,
+        26,
+        48
+      ],
+      "centroid": [
+        706.8,
+        975.5
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_188_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_188_post.png"
+    },
+    {
+      "id": "BLD-0189",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 118,
+      "bbox": [
+        245,
+        965,
+        19,
+        12
+      ],
+      "centroid": [
+        254.8,
+        970.4
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_189_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_189_post.png"
+    },
+    {
+      "id": "BLD-0190",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 139,
+      "bbox": [
+        372,
+        979,
+        21,
+        16
+      ],
+      "centroid": [
+        380.5,
+        985.5
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_190_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_190_post.png"
+    },
+    {
+      "id": "BLD-0191",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 125,
+      "bbox": [
+        249,
+        981,
+        14,
+        18
+      ],
+      "centroid": [
+        255.8,
+        988.8
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_191_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_191_post.png"
+    },
+    {
+      "id": "BLD-0192",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 158,
+      "bbox": [
+        215,
+        989,
+        20,
+        17
+      ],
+      "centroid": [
+        223.5,
+        996.5
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_192_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_192_post.png"
+    },
+    {
+      "id": "BLD-0193",
+      "damage_class": "Minor Damage",
+      "damage_severity": 1,
+      "color": "#CA8A04",
+      "confidence": 0.787,
+      "area_px": 147,
+      "bbox": [
+        932,
+        991,
+        11,
+        20
+      ],
+      "centroid": [
+        937.0,
+        1000.4
+      ],
+      "probabilities": {
+        "No Damage": 0.073,
+        "Minor Damage": 0.787,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_193_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_193_post.png"
+    },
+    {
+      "id": "BLD-0194",
+      "damage_class": "No Damage",
+      "damage_severity": 0,
+      "color": "#16A34A",
+      "confidence": 0.788,
+      "area_px": 168,
+      "bbox": [
+        675,
+        994,
+        16,
+        18
+      ],
+      "centroid": [
+        683.0,
+        1001.9
+      ],
+      "probabilities": {
+        "No Damage": 0.788,
+        "Minor Damage": 0.073,
+        "Major Damage": 0.073,
+        "Destroyed": 0.073
+      },
+      "pre_snippet": "/api/assessments/asm-1db4190d53/snippets/b_194_pre.png",
+      "post_snippet": "/api/assessments/asm-1db4190d53/snippets/b_194_post.png"
+    }
+  ],
+  "model_info": {
+    "name": "xView2 First-Place Solution (Siam-ResNet34 U-Net)",
+    "device": "CPU",
+    "weights_source": "xView2 Siamese ResNet34 U-Net (PyTorch CPU Engine)"
+  }
+}
